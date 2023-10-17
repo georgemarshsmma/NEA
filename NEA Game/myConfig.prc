@@ -1,2 +1,2 @@
 window-title Washington Bullets
-win-size 1200 675
+win-size 1280 720
